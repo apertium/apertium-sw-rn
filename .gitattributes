@@ -1,0 +1,10 @@
+* text=auto !eol
+/Makefile -text
+/apertium-sw-rn.rn.lexc -text
+/apertium-sw-rn.rn.twol -text
+/apertium-sw-rn.sw-rn.dix -text
+/apertium-sw-rn.sw-rn.t1x -text
+/apertium-sw-rn.sw.lexc -text
+/apertium-sw-rn.sw.twol -text
+/modes.xml -text
+/sw-rn.prob -text
